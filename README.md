@@ -1,6 +1,7 @@
 # VR-Drawing-Cutiehack_2020
 
-Team members: Sahil Patel, Noah Allen
+Team members: Sahil Patel, Noah Allen.
+
 Link to Origional Development Team Respoitory: https://github.com/noahallen/VR-Drawing-Cutiehack
 
 ## Inspiration
