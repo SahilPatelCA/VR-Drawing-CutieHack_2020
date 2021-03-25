@@ -1,4 +1,8 @@
 # VR-Drawing-Cutiehack_2020
+
+Team members: Sahil Patel, Noah Allen
+Link to Origional Development Team Respoitory: https://github.com/noahallen/VR-Drawing-Cutiehack
+
 ## Inspiration
 The inspiration behind this VR Hand Painting project was a mix between making a covid friendly project (no touching required), as well as using a newly acquired VR Hand Sensor.
 
@@ -20,4 +24,4 @@ We learned how to utilize a Leap Motion VR Hand Sensor and actually be able to i
 ## What's next for VR Drawing
 Next, would be more color options, more stability, and maybe different types of pens.
 
-##Credit to: Sahil Patel, Noah Allen, Tinghui Song
+##Credit to: Sahil Patel, Noah Allen
