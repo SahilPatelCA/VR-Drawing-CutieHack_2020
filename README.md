@@ -2,7 +2,7 @@
 
 Team members: Sahil Patel, Noah Allen.
 
-Link to Origional Development Team Respoitory: https://github.com/noahallen/VR-Drawing-Cutiehack
+Link to Origional Development Team Respository: https://github.com/noahallen/VR-Drawing-Cutiehack
 
 ## Inspiration
 The inspiration behind this VR Hand Painting project was a mix between making a covid friendly project (no touching required), as well as using a newly acquired VR Hand Sensor.
